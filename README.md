@@ -3,5 +3,6 @@
  
  Last updated: 05/17/23
  By: Vaughan, Gregory <GVAUGHAN@bentley.edu>
+
  
 Code for: Modeling potential impacts of Inflation Reduction Act on drug development based on relationship between revenue and R&D spending in diverse biopharmaceutical companies
